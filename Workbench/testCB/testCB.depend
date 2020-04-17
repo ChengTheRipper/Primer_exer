@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1574755868 source:c:\users\administrator\desktop\cpp projects\testcb\teacherclass.cpp
+	"teacherclass.h"
+
+1574755868 c:\users\administrator\desktop\cpp projects\testcb\teacherclass.h
+
+1580528507 source:c:\users\administrator\desktop\cpp projects\testcb\main.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+
+1575462951 source:c:\users\administrator\desktop\cpp projects\testcb\运算符重载的两个办法.cpp
+	<iostream>
+
+1575466295 source:c:\users\administrator\desktop\cpp projects\testcb\reload.cpp
+	<iostream>
+
+1586571742 source:c:\users\administrator\desktop\cpp projects\testcb\main1.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<set>
+	<vector>
+	<random>
+	<stdlib.h>
+	<algorithm>
+	<map>
+	<functional>
+
+1580541081 source:c:\users\administrator\desktop\cpp projects\testcb\kia.hpp
+	<iostream>
+	<string.h>
+
+1580541081 source:c:\users\administrator\desktop\cpp projects\testcb\kia.h
+	<iostream>
+	<string.h>
+
